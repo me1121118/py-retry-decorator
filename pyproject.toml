@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "py-retry-decorator"
+version = "0.1.0"
+description = "Lightweight sync & async retry decorator with exponential backoff and jitter in pure Python"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    { name = "me1121118" }
+]
+keywords = ["fastapi", "python", "utility", "tools"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/me1121118/py-retry-decorator"
+Repository = "https://github.com/me1121118/py-retry-decorator"
