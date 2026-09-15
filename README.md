@@ -62,7 +62,7 @@ def connect_db():
 
 I am an independent developer and student building open-source developer productivity tools. If this retry decorator helped your applications survive transient network glitches, please consider supporting my studies:
 
-- ☕ **Buy Me a Coffee:** [ko-fi.com/me1121118](https://ko-fi.com/)
+- ☕ **Buy Me a Coffee:** [buymeacoffee.com/kcidi4148](https://buymeacoffee.com/kcidi4148)
 - ⭐ **Star this repository** on GitHub!
 
 ---
